@@ -1,0 +1,9 @@
+[submodule "flex-lecture"]
+	path = flex-lecture
+	url = https://github.com/kogureshinpei/flex-lecture.git
+[submodule "my-profile"]
+	path = my-profile
+	url = https://github.com/Eilininada0405-hub/my-profile.git
+[submodule "my-bookshelf/React-"]
+	path = my-bookshelf/React-
+	url = https://github.com/Eilininada0405-hub/React-.git
